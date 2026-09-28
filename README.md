@@ -16,6 +16,6 @@ Develop a data warehouse in Databrics using sales data from CSV files.
 - Use all data and don't ignore historical values.
 
 ### Used technology
-Databrics
+Databrics with PySpark for bronze, silver and gold layers
 
 
