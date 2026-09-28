@@ -1,6 +1,7 @@
 # General
-- naming conventions - snake_case
+- Naming conventions - snake_case
 - Language - English
+- Programing language - pyspark
 
 ## Table naming
 * **Bronze layer:**
